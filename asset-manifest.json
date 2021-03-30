@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/iotlab-website-react/static/css/main.eec1d45d.chunk.css",
-    "main.js": "/iotlab-website-react/static/js/main.e1c7597b.chunk.js",
-    "main.js.map": "/iotlab-website-react/static/js/main.e1c7597b.chunk.js.map",
+    "main.css": "/iotlab-website-react/static/css/main.3ac327c3.chunk.css",
+    "main.js": "/iotlab-website-react/static/js/main.fbb07f3c.chunk.js",
+    "main.js.map": "/iotlab-website-react/static/js/main.fbb07f3c.chunk.js.map",
     "runtime-main.js": "/iotlab-website-react/static/js/runtime-main.7a52b0c3.js",
     "runtime-main.js.map": "/iotlab-website-react/static/js/runtime-main.7a52b0c3.js.map",
     "static/js/2.6fee3231.chunk.js": "/iotlab-website-react/static/js/2.6fee3231.chunk.js",
     "static/js/2.6fee3231.chunk.js.map": "/iotlab-website-react/static/js/2.6fee3231.chunk.js.map",
     "index.html": "/iotlab-website-react/index.html",
-    "static/css/main.eec1d45d.chunk.css.map": "/iotlab-website-react/static/css/main.eec1d45d.chunk.css.map",
+    "static/css/main.3ac327c3.chunk.css.map": "/iotlab-website-react/static/css/main.3ac327c3.chunk.css.map",
     "static/js/2.6fee3231.chunk.js.LICENSE.txt": "/iotlab-website-react/static/js/2.6fee3231.chunk.js.LICENSE.txt",
     "static/media/1.634e4560.png": "/iotlab-website-react/static/media/1.634e4560.png",
     "static/media/2.46ead3e8.png": "/iotlab-website-react/static/media/2.46ead3e8.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.7a52b0c3.js",
     "static/js/2.6fee3231.chunk.js",
-    "static/css/main.eec1d45d.chunk.css",
-    "static/js/main.e1c7597b.chunk.js"
+    "static/css/main.3ac327c3.chunk.css",
+    "static/js/main.fbb07f3c.chunk.js"
   ]
 }
