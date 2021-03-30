@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/iotlab-website-react/static/css/main.eec1d45d.chunk.css",
+    "main.js": "/iotlab-website-react/static/js/main.e1c7597b.chunk.js",
+    "main.js.map": "/iotlab-website-react/static/js/main.e1c7597b.chunk.js.map",
+    "runtime-main.js": "/iotlab-website-react/static/js/runtime-main.7a52b0c3.js",
+    "runtime-main.js.map": "/iotlab-website-react/static/js/runtime-main.7a52b0c3.js.map",
+    "static/js/2.6fee3231.chunk.js": "/iotlab-website-react/static/js/2.6fee3231.chunk.js",
+    "static/js/2.6fee3231.chunk.js.map": "/iotlab-website-react/static/js/2.6fee3231.chunk.js.map",
+    "index.html": "/iotlab-website-react/index.html",
+    "static/css/main.eec1d45d.chunk.css.map": "/iotlab-website-react/static/css/main.eec1d45d.chunk.css.map",
+    "static/js/2.6fee3231.chunk.js.LICENSE.txt": "/iotlab-website-react/static/js/2.6fee3231.chunk.js.LICENSE.txt",
+    "static/media/1.634e4560.png": "/iotlab-website-react/static/media/1.634e4560.png",
+    "static/media/2.46ead3e8.png": "/iotlab-website-react/static/media/2.46ead3e8.png",
+    "static/media/3.e5bfdfa4.png": "/iotlab-website-react/static/media/3.e5bfdfa4.png",
+    "static/media/4.1e0ed46f.png": "/iotlab-website-react/static/media/4.1e0ed46f.png",
+    "static/media/5.6035bf9a.png": "/iotlab-website-react/static/media/5.6035bf9a.png",
+    "static/media/a1.57f20b16.png": "/iotlab-website-react/static/media/a1.57f20b16.png",
+    "static/media/a3.ac2d4ddb.png": "/iotlab-website-react/static/media/a3.ac2d4ddb.png",
+    "static/media/aboutiot.ce58599f.png": "/iotlab-website-react/static/media/aboutiot.ce58599f.png",
+    "static/media/cart.scss": "/iotlab-website-react/static/media/student.ef8ad940.png",
+    "static/media/creator.6fc667f4.png": "/iotlab-website-react/static/media/creator.6fc667f4.png",
+    "static/media/faq.454d5160.png": "/iotlab-website-react/static/media/faq.454d5160.png",
+    "static/media/internship.e478fe60.png": "/iotlab-website-react/static/media/internship.e478fe60.png",
+    "static/media/iot.293c0d67.png": "/iotlab-website-react/static/media/iot.293c0d67.png",
+    "static/media/lastimg.67580554.png": "/iotlab-website-react/static/media/lastimg.67580554.png",
+    "static/media/legend.29ebfc21.png": "/iotlab-website-react/static/media/legend.29ebfc21.png",
+    "static/media/logo.6dcf1ed5.png": "/iotlab-website-react/static/media/logo.6dcf1ed5.png",
+    "static/media/logoimg.6437e8ce.png": "/iotlab-website-react/static/media/logoimg.6437e8ce.png",
+    "static/media/modules.3d10dbc0.png": "/iotlab-website-react/static/media/modules.3d10dbc0.png",
+    "static/media/product1.61257518.png": "/iotlab-website-react/static/media/product1.61257518.png",
+    "static/media/query.331b7a42.png": "/iotlab-website-react/static/media/query.331b7a42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a52b0c3.js",
+    "static/js/2.6fee3231.chunk.js",
+    "static/css/main.eec1d45d.chunk.css",
+    "static/js/main.e1c7597b.chunk.js"
+  ]
+}
