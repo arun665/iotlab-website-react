@@ -30,7 +30,7 @@ function Product(){
     </div>
     <div className="col-md-6 col-sm-12 col-xs-12" id="productdivhead" style={{height:'100%'}}>
     
-      <h1 style={{color:'wite'}} id="productheading2" > LoRa Module</h1>
+      <h1 style={{color:'white'}} id="productheading2" > LoRa Module</h1>
     <h1 style={{color:'white'}} id="productheading" data-aos="fade-up" > LoRa Module</h1>
     </div>
   </div>
