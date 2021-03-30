@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iotlab-website-react/static/css/main.3ac327c3.chunk.css",
-    "main.js": "/iotlab-website-react/static/js/main.fbb07f3c.chunk.js",
-    "main.js.map": "/iotlab-website-react/static/js/main.fbb07f3c.chunk.js.map",
+    "main.js": "/iotlab-website-react/static/js/main.33dc7d5e.chunk.js",
+    "main.js.map": "/iotlab-website-react/static/js/main.33dc7d5e.chunk.js.map",
     "runtime-main.js": "/iotlab-website-react/static/js/runtime-main.7a52b0c3.js",
     "runtime-main.js.map": "/iotlab-website-react/static/js/runtime-main.7a52b0c3.js.map",
     "static/js/2.6fee3231.chunk.js": "/iotlab-website-react/static/js/2.6fee3231.chunk.js",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.7a52b0c3.js",
     "static/js/2.6fee3231.chunk.js",
     "static/css/main.3ac327c3.chunk.css",
-    "static/js/main.fbb07f3c.chunk.js"
+    "static/js/main.33dc7d5e.chunk.js"
   ]
 }
