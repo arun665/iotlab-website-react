@@ -1,0 +1,280 @@
+@media screen and (max-width: 576px) {
+    /* navbar part */
+    #header {
+    
+        list-style-type: none;
+        margin: 0;
+        padding-left: 2%;
+        padding-right: 2%;
+        
+        overflow: hidden;
+        width:100%;
+       background-color:#007FEB;
+       margin-bottom:0px;
+   
+      }
+      #brand{
+          padding: 0px 1px;
+      }
+      #logo{
+          height: 60px;
+          width:160px;
+    
+      }
+      #logoimg{
+        height: 30px;
+        width:30px;
+    
+      }
+     #cart{
+           height:40px;
+           width:60px;   
+          }
+          #profile{
+              margin-top:3px;
+            height:35px;
+            width:55px;     
+           }
+        
+          .menuitem {
+            float: left;
+            margin-top: auto;
+          margin-bottom: auto;
+          height: 100%;
+          
+          }
+          
+          .menuitem a {
+        font-size: 25px;
+        font-family: 'Berkshire Swash';
+            display: block;
+            color: white;
+            height: 100%;
+            text-align: center;
+            padding: 9px 0px;
+            margin-top: auto;
+            margin-bottom: auto;
+            text-decoration: none;
+          }
+        
+          /* navbar part  end */
+    
+    
+          
+           /*  footer part */
+    
+           #footer{
+            padding:2%;
+        
+        }
+        .lastimg{
+            height:90px;
+            width:160px;
+        }
+          
+    .fa {
+        
+        height: 30px;
+            width: 30px;
+            text-align: center;
+            text-decoration: none;
+            margin: 4px 2px;
+        
+            
+            transition: 1s;
+          }
+          #mail{
+              width:15px;
+              height:15px;
+     
+          }
+          #map{
+      
+            width:15px;
+            height:15px;
+        }
+        #tableb{
+            color:white;
+            font-size:12px;
+            border-collapse: collapse;
+        }
+        
+        
+    
+        
+    
+    
+           
+           /*  footer part end*/
+
+
+
+  
+           #productdiv{
+            background-color: black;
+            height:92%;
+               -webkit-background-size: cover;
+               -moz-background-size: cover;
+               background-size: cover;
+               -o-background-size: cover;
+               margin-top:0%;
+             }
+             #productoutdiv{
+                 height:100%;
+                 padding-top:20%;
+        
+             }
+        
+             
+        
+             #product{
+                 height:60%;
+                 width:100%;
+                 margin-top: 10%;
+                 margin-bottom:5%;
+            
+                 animation: myfirst 5s infinite;
+                 animation-direction: alternate;
+             }
+             @keyframes myfirst {
+               0%   { height: 60%;width:100%;}
+             
+               50%  { height: 62%;width:102%;}
+              
+               100% { height: 60%;width:100%}
+             }
+                  
+             body, html {
+               height: 100%;
+               margin: 0;
+             }
+           
+             #productheading{
+          
+        display:none;
+         
+             }
+             #productheading2{
+               display:block;
+               text-align:center;
+          
+            
+      top:0px;
+             }
+           #seconddivbtn{
+              margin:5px;
+          
+                   border-radius: 20px;
+                   font-size:4vw;;
+                   margin-left:15%;
+                   margin-right:15%;
+                   width:70%;
+           }
+           #seconddiv{
+               margin-top:5%;
+               margin-bottom:10%;
+               width:100%;
+           }
+           #seconddivpara{
+               font-size:4vw;
+               margin-left: auto;
+               margin-right: auto;
+               margin-top:2%;
+               margin-bottom:2%;
+               text-align: center;
+           }
+           #table1{
+               border-top:1px solid grey;   
+               margin-bottom:5%;
+               width:100%;
+               font-size:3vw;
+               
+           }
+           #table1 tr{
+            border-bottom:1px solid grey;   
+           }
+        #div4{
+        margin-bottom:5%;
+        }
+           #div4button{
+             width:80%;
+        
+          height:20%;
+             margin-left: 10%;
+             margin-right: 10%;
+          border-radius:20px;
+        background-color: #5ea5e4;
+          margin-bottom:2%;
+          transition: 1s;
+          
+           }
+           #div4button:hover{
+              background-color: indigo;
+              border-radius:5px;
+           }
+        #card1row{
+        height:400px;
+        margin-bottom:10%;
+        width:95%;
+        }
+        #card1row:hover{
+        box-shadow: 5px 10px 18px #888888;
+        }
+        
+        #card2row{
+        height:400px;
+        margin-bottom:10%;
+        width:95%;
+        }
+        #card2row:hover{
+        box-shadow: 5px 10px 18px #888888;
+        }
+        
+        #div3{
+          margin-bottom:20%;
+        }
+        
+        .legendheading{
+        text-align:center;
+            font-size:35px;
+            top:0px;
+           }
+         
+           #fieldset1{
+               font-size:15px;
+           }
+        #fieldset1{
+        margin-top:6%;
+        width:100%;
+        }
+        #benefits{
+            margin-top:0%;
+        }
+        #legend1{
+            display:block;
+            text-align: center;
+            height:150px;width:200px;
+            margin-left:auto;
+            margin-right:auto;
+      
+        }
+        #benefits{
+        margin-top:5%;
+        margin-bottom: 5%;
+        }
+        #tempimg1{
+        height:220px;;width:25%;
+        position:absolute;overflow:visible;top:-12%;
+        display:none;
+        
+        }
+        
+        
+        #fieldset1{
+        font-size:15px;
+        }
+        
+    
+    
+    
+    }    

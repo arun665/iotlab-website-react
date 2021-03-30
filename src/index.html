@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="billing.css">
+    <link rel="stylesheet" href="billingandroid.css">
+    <link rel="stylesheet" href="billingtablet.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Alfa Slab One' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet'>
+    
+    <link href='https://fonts.googleapis.com/css?family=Alata' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <title>Document</title>
+
+   
+    <style>
+    
+  </style>
+    
+</head>
+<body data-aos="fade">
+  
+     
+
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init({
+
+
+    duration: 1000,
+    once: true, 
+  });
+
+
+  
+ var x=document.getElementsByClassName("next");
+ 
+ document.getElementById("next").addEventListener("click", function(){
+
+document.getElementById("secondpart").className="active";
+
+document.getElementById("table1").style.display="none";
+document.getElementById("table2").style.display="block";
+
+ });
+
+ document.getElementById("prev").addEventListener("click", function(){
+
+document.getElementById("secondpart").className="";
+
+document.getElementById("table1").style.display="block";
+document.getElementById("table2").style.display="none";
+
+ });
+</script>
+
+</body>
+</html>

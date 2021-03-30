@@ -1,0 +1,119 @@
+#Cart{
+@media screen and (max-width: 576px) {
+    /* navbar part */
+    #header {
+    
+        list-style-type: none;
+        margin: 0;
+        padding-left: 2%;
+        padding-right: 2%;
+        
+        overflow: hidden;
+        width:100%;
+       background-color:#007FEB;
+       margin-bottom: 3%;;
+      }
+      #brand{
+          padding: 0px 1px;
+      }
+      #logo{
+          height: 60px;
+          width:160px;
+    
+      }
+      #logoimg{
+        height: 30px;
+        width:30px;
+    
+      }
+     #cart{
+           height:40px;
+           width:60px;   
+          }
+          #profile{
+              margin-top:3px;
+            height:35px;
+            width:55px;     
+           }
+        
+          .menuitem {
+            float: left;
+            margin-top: auto;
+          margin-bottom: auto;
+          height: 100%;
+          
+          }
+          
+          .menuitem a {
+        font-size: 25px;
+        font-family: 'Berkshire Swash';
+            display: block;
+            color: white;
+            height: 100%;
+            text-align: center;
+            padding: 9px 0px;
+            margin-top: auto;
+            margin-bottom: auto;
+            text-decoration: none;
+          }
+        
+          /* navbar part  end */
+    
+    
+          
+           /*  footer part */
+    
+           #footer{
+            padding:2%;
+        
+        }
+        .lastimg{
+            height:90px;
+            width:160px;
+        }
+          
+    .fa {
+        
+        height: 30px;
+            width: 30px;
+            text-align: center;
+            text-decoration: none;
+            margin: 4px 2px;
+        
+            
+            transition: 1s;
+          }
+          #mail{
+              width:15px;
+              height:15px;
+     
+          }
+          #map{
+      
+            width:15px;
+            height:15px;
+        }
+        #tableb{
+            color:white;
+            font-size:12px;
+            border-collapse: collapse;
+        }
+        
+        
+    
+        
+    
+    
+           
+           /*  footer part end*/
+    
+           #card{
+            width:95%;
+        }
+        h4{
+            font-size:10px;
+        }
+        
+    }    
+
+}

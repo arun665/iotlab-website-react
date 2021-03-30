@@ -1,0 +1,188 @@
+@media screen and (max-width: 576px) {
+    /* navbar part */
+    #header {
+    
+        list-style-type: none;
+        margin: 0;
+        padding-left: 2%;
+        padding-right: 2%;
+        
+        overflow: hidden;
+        width:100%;
+       background-color:#007FEB;
+       margin-bottom: 3%;;
+      }
+      #brand{
+          padding: 0px 1px;
+      }
+      #logo{
+          height: 60px;
+          width:160px;
+    
+      }
+      #logoimg{
+        height: 30px;
+        width:30px;
+    
+      }
+     #cart{
+           height:40px;
+           width:60px;   
+          }
+          #profile{
+              margin-top:3px;
+            height:35px;
+            width:55px;     
+           }
+        
+          .menuitem {
+            float: left;
+            margin-top: auto;
+          margin-bottom: auto;
+          height: 100%;
+          
+          }
+          
+          .menuitem a {
+        font-size: 25px;
+        font-family: 'Berkshire Swash';
+            display: block;
+            color: white;
+            height: 100%;
+            text-align: center;
+            padding: 9px 0px;
+            margin-top: auto;
+            margin-bottom: auto;
+            text-decoration: none;
+          }
+        
+          /* navbar part  end */
+    
+    
+          
+           /*  footer part */
+    
+           #footer{
+            padding:2%;
+        
+        }
+        .lastimg{
+            height:90px;
+            width:160px;
+        }
+          
+    .fa {
+        
+        height: 30px;
+            width: 30px;
+            text-align: center;
+            text-decoration: none;
+            margin: 4px 2px;
+        
+            
+            transition: 1s;
+          }
+          #mail{
+              width:15px;
+              height:15px;
+     
+          }
+          #map{
+      
+            width:15px;
+            height:15px;
+        }
+        #tableb{
+            color:white;
+            font-size:12px;
+            border-collapse: collapse;
+        }
+        
+        
+    
+        
+    
+    
+           
+           /*  footer part end*/
+    
+
+
+           
+                 
+     .billingform{
+        width:100%;
+        border:2px solid black;
+        height:1050px;
+
+        overflow:auto;
+        width:100px;
+        padding:5px;
+        margin-bottom: 10%;;
+        font-size:12px;
+   
+    }
+    #table1 input{
+           border:1px solid black;
+           border-radius: 0px;;
+    width:100%;
+    }
+    #table1{
+      width:100%;
+      margin-top:20%;
+    }
+    #table1 td{
+        width:50%;
+    }
+    #table1 select {
+        border:1px solid black;
+        border-radius: 0px;;
+        width:100%;
+  }
+  
+  
+  #table1 textarea {
+    border:1px solid black;
+    border-radius: 0px;;
+    width:100%;
+  }
+  #table2 td{
+  width:50%;
+  }
+  #table2 input{
+  border:1px solid black;
+  border-radius: 0px;;
+  width:100%;
+  }
+  #table2{
+  width:100%;
+  }
+  
+  #payment input{
+  width:100%;
+  margin-bottom:3%; 
+  }
+  
+  #table2 select {
+  border:1px solid black;
+  border-radius: 0px;;
+  width:100%;
+  }
+  #accept{
+  text-align: left;
+  
+  }
+  
+  
+  #table2 textarea {
+  border:1px solid black;
+  border-radius: 0px;;
+  width:260px;
+  }
+  
+  #table3{
+  width:100%;
+  margin-left: auto;
+  margin-right:auto;
+  }
+    }    

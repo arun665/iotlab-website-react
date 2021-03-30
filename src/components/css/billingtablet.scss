@@ -1,0 +1,176 @@
+
+
+@media screen and (max-width: 992px) and    (min-width: 576px){
+    /* navbar part  */
+  #header {
+      list-style-type: none;
+      margin: 0;
+      padding-left: 4%;
+      padding-right: 1%;
+      
+      overflow: hidden;
+      width:100%;
+     background-color:#007FEB;
+     margin-bottom: 3%;;
+
+    }
+    #brand{
+        padding:3px 6px;
+
+    }
+    #logo{
+        height: 60px;
+        width:179px;
+
+    }
+    .menuitem {
+      float: left;
+      margin-top: auto;
+    margin-bottom: auto;
+    height: 100%;
+    
+    }
+    .menuitem a {
+      font-size: 25px;
+      font-family: 'Berkshire Swash';
+          display: block;
+          color: white;
+          height: 100%;
+          text-align: center;
+          padding: 6px 3px;
+          margin-top: auto;
+          margin-bottom: auto;
+          text-decoration: none;
+        }
+        
+    
+    #logoimg{
+        height:40px;
+        width:40px;
+    }
+    #cart{
+      height:50px;
+      width:80px;  
+    }
+    #profile{
+        margin-top:6px;
+      height:40px;
+      width:65px;     
+     }
+
+        /* navbar part  end */
+
+
+        
+     /*  footer part */
+
+     #tableb{
+      color:white;font-weight:bold;
+  }
+  .lastimg{
+      height:150px;
+      width:300px;
+  }
+
+  #footer{
+      padding:2%;
+  
+  }
+  #map{
+    width:25px;
+}
+#mail{
+    width:25px;
+}
+.fa {
+  
+  height: 50px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+  
+      
+      transition: 1s;
+    }
+  
+
+
+     
+     /*  footer part end*/
+
+
+
+                 
+     .billingform{
+      width:100%;
+      border:2px solid black;
+      height:950px;
+      width:100px;
+      padding:5px;
+      margin-bottom: 10%;;
+ 
+  }
+  #table1 input{
+         border:1px solid black;
+         border-radius: 0px;;
+  width:80%;
+  }
+  #table1{
+    width:100%;
+    margin-top:20%;
+  }
+  #table1 td{
+      width:50%;
+  }
+  #table1 select {
+      border:1px solid black;
+      border-radius: 0px;;
+      width:80%;
+}
+
+
+#table1 textarea {
+  border:1px solid black;
+  border-radius: 0px;;
+  width:80%;
+}
+#table2 td{
+width:50%;
+}
+#table2 input{
+border:1px solid black;
+border-radius: 0px;;
+width:100%;
+}
+#table2{
+width:100%;
+}
+
+#payment input{
+width:80px; 
+}
+
+#table2 select {
+border:1px solid black;
+border-radius: 0px;;
+width:100%;
+}
+#accept{
+text-align: left;
+
+}
+
+
+#table2 textarea {
+border:1px solid black;
+border-radius: 0px;;
+width:260px;
+}
+
+#table3{
+width:100%;
+margin-left: auto;
+margin-right:auto;
+}
+}

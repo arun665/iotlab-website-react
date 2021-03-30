@@ -1,0 +1,576 @@
+#Home{
+
+
+@media screen and (max-width: 576px) {
+/* navbar part */
+#header {
+
+    list-style-type: none;
+    margin: 0;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+    overflow: hidden;
+    width:100%;
+   background-color:#007FEB;
+   margin-bottom: 3%;;
+  }
+  #brand{
+      padding: 0px 1px;
+  }
+  #logo{
+      height: 60px;
+      width:160px;
+
+  }
+  #logoimg{
+    height: 30px;
+    width:30px;
+
+  }
+ #cart{
+       height:40px;
+       width:60px;   
+      }
+      #profile{
+          margin-top:3px;
+        height:35px;
+        width:55px;     
+       }
+    
+      .menuitem {
+        float: left;
+        margin-top: auto;
+      margin-bottom: auto;
+      height: 100%;
+      
+      }
+      
+      .menuitem a {
+    font-size: 25px;
+    font-family: 'Berkshire Swash';
+        display: block;
+        color: white;
+        height: 100%;
+        text-align: center;
+        padding: 9px 0px;
+        margin-top: auto;
+        margin-bottom: auto;
+        text-decoration: none;
+      }
+    
+      /* navbar part  end */
+
+
+      
+       /*  footer part */
+
+       #footer{
+        padding:2%;
+    
+    }
+    .lastimg{
+        height:90px;
+        width:160px;
+    }
+      
+.fa {
+    
+    height: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        margin: 4px 2px;
+    
+        
+        transition: 1s;
+      }
+      #mail{
+          width:15px;
+          height:15px;
+ 
+      }
+      #map{
+  
+        width:15px;
+        height:15px;
+    }
+    #tableb{
+        color:white;
+        font-size:12px;
+        border-collapse: collapse;
+    }
+    
+    
+
+    
+
+
+       
+       /*  footer part end*/
+
+       /* div 1 header */
+
+       #student{
+        background-image: url('homepageheader.gif');
+        background-repeat: repeat;
+        border-color: 1px solid blue;
+        border-radius: 50px;
+        height:385px;
+        width:95%;
+        background-size: cover;
+        
+        margin-left: auto;
+        margin-right: auto;
+        
+            }
+        
+        
+#studentbox{
+    padding:1%;background-color:#ffffffcc;border-radius:40px;
+    width:100%;
+    position: relative;
+    
+
+    margin-bottom:1%;
+top:208px;
+
+}
+
+#buttons{
+  position:relative;
+
+  float:right;
+  top:180px;
+  margin-bottom:5%;
+  margin-top:50px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  #headervl{
+      padding-left:1%;
+      display: none;
+  }
+  
+  #button1{
+      background-color: white;
+      border:2px solid #007FEB;
+      color:#007FEB;
+      height: 60px;;
+      width:100%;
+      margin-bottom:2px;
+      border-radius: 10px;
+      font-size:22px;
+
+  transition: 1s;
+  
+  }
+  #button1:hover{
+      border-radius: 25px;
+      background-color: #009999;
+      border:2px solid #007FEB;
+      color:white;
+  
+  }
+  #button2{
+    background-color: #007FEB;
+    border:2px solid #007FEB;
+    color:white;
+    height:60px;
+    width:100%;
+    border-radius: 10px;
+    font-size:22px;
+    transition: 1s;
+
+}
+#button2:hover{
+    background-color:#009999;
+color:white;
+border:2px solid #4da6ff;
+border-radius: 25px;
+}
+
+.vl {
+    border-left: 6px solid grey;
+    height: 100px;
+    
+  }
+
+              /* div 1 header end */
+
+
+
+              
+/* why to take this course div */
+#tempdivheading{
+    width:80%;margin-left: auto;margin-right: auto;
+}
+#tempdivpara{
+    width:100%;overflow:visible;;font-size:15px;margin-left: auto;margin-right: auto;
+    font-weight:normal;
+}
+
+#container2{
+              
+    margin-top:15%;
+  }
+  #card1{
+
+    width:100%;
+    font-weight: bold;;
+}
+#cardtempwidth{
+      
+    margin-top:1%;
+
+}
+#tempdiv{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:10%;
+}
+#heading1{
+    font-size:35px;
+    text-align: center;
+    color:black;
+
+}
+/* why to take this course div  end*/
+
+
+/* div 3 start */
+#legend1{
+    text-align: center;
+    height:150px;width:200px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+#container1{
+    margin-top:20%;
+}
+#fieldset1{
+
+    font-size:15px;
+    margin-bottom:10%;
+}
+#tempimg1{
+display:none;
+}
+.legendheading{
+    position:relative;
+
+   }
+   .legendheading2{
+   
+text-align:center;
+       font-size:30px;
+
+   }
+   .legendheading3{
+    
+
+    font-size:20px;
+    margin-bottom:5%;;
+    text-align:center;
+ 
+}
+#table1{
+    text-align:center;
+    margin-bottom: 5%;;
+}
+
+/* div 3 end */
+
+
+
+
+/* div 3 creator */
+
+#fieldset2{
+    margin-top:10%;
+    width:95%;
+}
+#legend2{
+    text-align: center;
+    height:200px;width:180px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.legendheading{
+    position:relative;
+   
+   }
+   .legendheading4{
+    
+       font-size:30px;
+       text-align:center;
+     
+   }
+
+#legendheadingdiv2{
+
+    margin-bottom:5%;
+}
+
+   
+   #tempimg2{
+    height:250px;;width:25%;
+    position:absolute;overflow:visible;top:-130px;
+    left:5%;
+    display:none;
+   
+}
+#table2{
+    width:100%;
+    float:left;
+    font-size:4vw;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* div 3 creator end */
+
+
+
+/* student 2 start */
+
+#student2{
+    background-image: url('student.png');
+    border-color: 1px solid blue;
+    border-radius: 30px;
+    height:180px;
+    width:100%;;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    padding:4%;
+    width:100%;
+margin-bottom: 8%;
+    
+    
+    
+        }
+        #headervl2{
+            padding-left:5%;
+        }
+        
+        .vl2 {
+            border-left: 8px solid grey;
+            height:8vw;
+            vertical-align: top;
+            
+          }
+    #studentbox2{
+        padding:1%;background-color:#ffffffcc;
+        border-radius:30px;
+        width:95%;
+    
+        position: relative;
+       margin-left: auto;
+       margin-right:auto;
+        
+    
+    
+       
+    top:100px;
+    
+    }
+    #student2row{
+
+  
+        padding-top:5px;
+    font-weight:bold;
+    }
+    #studentboxheading2{
+        font-size:6vw;;
+    text-align:center;
+    margin-top:auto;
+    margin-bottom: auto;
+    }
+    #headervl2{
+        display:none;
+    }
+    
+#headerp{
+font-size:5vw;
+
+}
+#benefits{
+    width:100%;
+}
+
+
+
+/* student 2 end */
+
+/* collage start */
+
+#table4{
+    width:100%;
+}
+
+#collage{
+    background-image: url('collages.png');
+    border-color: 1px solid blue;
+    border-radius: 30px;
+    height:180px;
+    width:100%;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1%;
+    margin-bottom: 5%;;
+    width:100%;
+    
+        }
+        
+        
+        .vl3 {
+            border-left: 8px solid grey;
+            height:6vw;
+            
+        
+          }
+    #collagebox2{
+        padding:1%;background-color:#ffffffcc;
+        border-radius:30px;
+        width:95%;
+    
+        position: relative;
+       margin-left: auto;
+       margin-right:auto;
+    
+    
+       
+    top:100px;
+    
+    }
+    #collage2row{
+
+        padding-top:10%;
+    
+        padding-left:30%;
+        padding-right:30%;
+    
+    }
+    #collageboxheading2{
+       
+        
+        font-size:6vw;
+        text-align:center;
+        margin-top:auto;
+        margin-bottom: auto;
+    }
+
+    #headervl3{
+    
+        display: none;
+    }
+    
+#headerp3{
+font-size:1.5vw;
+display:none;
+}
+
+#containertemp{
+    margin-top:40%;
+}
+
+
+
+/* collage end */
+
+
+
+/* PROFESSIONALS start */
+
+
+
+#professionals{
+    background-image: url('professionals.png');
+    border-color: 1px solid blue;
+    border-radius: 30px;
+    height:180px;
+    width:92%;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1%;
+    width:100%;
+    
+    
+    
+
+        }
+
+        #professionalsbox2{
+            padding:1%;background-color:#ffffffcc;
+            border-radius:30px;
+            width:95%;
+        
+            position: relative;
+           margin-left: auto;
+           margin-right:auto;
+    
+     
+        
+        
+           
+        top:100px;
+        
+        }
+        #professionalsheading2{
+            font-size:6vw;
+            text-align: center;
+            margin-top:auto;
+            margin-bottom: auto;
+        }
+
+        
+        #container4{
+            margin-bottom:10%;
+            margin-top:0%;
+            display: none;;
+        }
+        
+        #headingdiv{
+            width: 100%;;
+            text-align: center;
+            align-items: center;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 12%;
+
+        }
+
+        .heading2{
+
+            text-align:center;
+font-weight: bold;
+font-size: 30px;
+        }
+        
+        .heading3{
+text-align: center;
+font-weight: bold;
+font-size: 15px;
+        }
+        #headerp1{
+            display: none;
+        }
+        #container5{
+            display:none;
+        }
+/* professioanl end */
+#container4{
+    display:block;
+    margin-top:5%;
+}
+
+
+
+    }
+}

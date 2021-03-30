@@ -1,0 +1,885 @@
+#Cart{
+@media screen and (min-width: 992px) {
+
+    /* nav code here */
+    
+    #header {
+    
+        list-style-type: none;
+        margin: 0;
+        padding-left: 4%;
+        padding-right: 2%;
+        
+        overflow: hidden;
+        width:100%;
+       background-color:#007FEB;
+       margin-bottom: 3%;;
+      }
+      
+      #logo{
+          height: 60px;
+          width:200px;
+    
+      }
+      #logoimg{
+        height: 40px;
+        width:40px;
+    
+      }
+    
+          #cart{
+            height:50px;
+            width:85px;  
+          }
+          #profile{
+              margin-top:4px;
+            height:45px;
+            width:75px;     
+           }
+    
+           .menuitem {
+            float: left;
+            margin-top: auto;
+          margin-bottom: auto;
+          height: 100%;
+          
+          }
+          #brand{
+            padding:2px 6px;
+          }
+        
+          .menuitem a {
+        font-size: 25px;
+        font-family: 'Berkshire Swash';
+            display: block;
+            color: white;
+            height: 100%;
+            text-align: center;
+            padding-top:5px;
+            padding-bottom: 5px;;
+            margin-top: auto;
+            margin-bottom: auto;
+            text-decoration: none;
+          }
+          
+    
+           /* nav bar section ends  */
+    
+    
+    
+    
+           /*  footer part */
+    
+           #footer{
+            padding:2%;
+            padding-left:8%;
+        }
+        #footerbuttons{
+            margin-right:8%;
+        }
+        #lastcol1{
+            width:55%;
+        }
+          .lastimg{
+            height:200px;
+            width:450px;
+        }
+        #tableb{
+            color:white;font-weight:bold;
+            font-size:20px;
+        }
+        #map{
+            width:25px;
+        }
+        #mail{
+            width:25px;
+        }
+      
+    
+    .fa {
+        
+        height: 70px;
+            width: 70px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+        
+            
+            transition: 1s;
+          }
+          
+        
+        .fa2{
+            
+            height: 72px;
+                width: 72px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 2px;
+            
+                
+                transition: 1s;
+              }
+    
+        
+    
+    
+           
+           /*  footer part end*/
+    #card{
+        width:80%;
+    }
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    @media screen and (max-width: 450px) and    (min-width: 399px){
+    
+            
+        #studentbox{
+        padding:1%;background-color:#ffffff99;border-radius:25px;
+            width:100%;
+            position: relative;
+            
+        
+            margin-bottom:1%;
+        top:230px;
+        
+        }
+    
+    
+    }
+    
+    
+     
+    
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+          .fa:hover {
+              opacity: 0.7;
+        
+         
+        font-size:23px;
+        
+            }
+    
+    
+            @media screen and (min-width: 992px) {
+
+                /* nav code here */
+                
+                #header {
+                
+                    list-style-type: none;
+                    margin: 0;
+                    padding-left: 4%;
+                    padding-right: 2%;
+                    
+                    overflow: hidden;
+                    width:100%;
+                   background-color:#007FEB;
+                   margin-bottom: 3%;;
+                  }
+                  
+                  #logo{
+                      height: 60px;
+                      width:200px;
+                
+                  }
+                  #logoimg{
+                    height: 40px;
+                    width:40px;
+                
+                  }
+                
+                      #cart{
+                        height:50px;
+                        width:85px;  
+                      }
+                      #profile{
+                          margin-top:4px;
+                        height:45px;
+                        width:75px;     
+                       }
+                
+                       .menuitem {
+                        float: left;
+                        margin-top: auto;
+                      margin-bottom: auto;
+                      height: 100%;
+                      
+                      }
+                      #brand{
+                        padding:2px 6px;
+                      }
+                    
+                      .menuitem a {
+                    font-size: 25px;
+                    font-family: 'Berkshire Swash';
+                        display: block;
+                        color: white;
+                        height: 100%;
+                        text-align: center;
+                        padding-top:5px;
+                        padding-bottom: 5px;;
+                        margin-top: auto;
+                        margin-bottom: auto;
+                        text-decoration: none;
+                      }
+                      
+                
+                       /* nav bar section ends  */
+                
+                
+                
+                
+                       /*  footer part */
+                
+                       #footer{
+                        padding:2%;
+                        padding-left:8%;
+                    }
+                    #footerbuttons{
+                        margin-right:8%;
+                    }
+                    #lastcol1{
+                        width:55%;
+                    }
+                      .lastimg{
+                        height:200px;
+                        width:450px;
+                    }
+                    #tableb{
+                        color:white;font-weight:bold;
+                        font-size:20px;
+                    }
+                    #map{
+                        width:25px;
+                    }
+                    #mail{
+                        width:25px;
+                    }
+                  
+                
+                .fa {
+                    
+                    height: 70px;
+                        width: 70px;
+                        text-align: center;
+                        text-decoration: none;
+                        margin: 5px 2px;
+                    
+                        
+                        transition: 1s;
+                      }
+                      
+                    
+                    .fa2{
+                        
+                        height: 72px;
+                            width: 72px;
+                            text-align: center;
+                            text-decoration: none;
+                            margin: 5px 2px;
+                        
+                            
+                            transition: 1s;
+                          }
+                
+                    
+                
+                
+                       
+                       /*  footer part end*/
+                
+                       /* first div photo*/
+                       #student{
+                        background-image: url('homepageheader.gif');
+                        background-repeat: repeat;
+                        border-color: 1px solid blue;
+                        border-radius: 65px;
+                        height:610px;
+                        width:78%;
+                        background-size: cover;
+                        margin-left: auto;
+                        margin-right: auto;
+                        
+                        
+                        
+                            }
+                            #headervl{
+                                padding-left:5%;
+                            }
+                            
+                            .vl {
+                                border-left: 8px solid grey;
+                                height:9vw;
+                                vertical-align: top;
+                                
+                              }
+                        #studentbox{
+                            PADDING:3%;background-color:#ffffff99;
+                            border-radius:60px;
+                            width:80%;
+                            float:left;
+                            position: relative;
+                            margin-left:4%;
+                            padding-bottom:3%;
+                            overflow: hidden;
+                        
+                        
+                           
+                        top:360px;
+                        
+                        }
+                        #headervl{
+                            padding-left:2%;
+                        }
+                        
+                #button1{
+                    background-color: white;
+                    border:2px solid #007FEB;
+                    color:#007FEB;
+                    height:70px;
+                    width:100%;
+                    margin-bottom:15px;
+                    border-radius: 2px;
+                    font-size:32px;
+                    font-weight: BOLD;
+                    
+                transition: 1s;
+                
+                }
+                #button1:hover{
+                    border-radius: 25px;
+                    background-color: #009999;
+                    border:2px solid #007FEB;
+                    color:white;
+                
+                }
+                #button2{
+                    background-color: #007FEB;
+                    border:2px solid WHITE;
+                    color:white;
+                    height:70px;
+                    font-weight: bold;
+                    width:100%;
+                    border-radius: 2px;
+                    font-size:32px;
+                    transition: 1s;
+                    
+                }
+                #button2:hover{
+                    background-color:#009999;
+                color:white;
+                border:2px solid #4da6ff;
+                border-radius: 25px;
+                }
+                #headerp{
+                    font-size:1.6vw;
+                    font-weight: bold;
+                }
+                #buttons{
+                    position: relative;
+                    top:370px;
+                    float:right;
+                    
+                    margin-right:2%;
+                    
+                    
+                    }
+                    #div1iotimg{
+                        height:150px;
+                        width:150px;
+                    }
+                /* frist div end */
+                
+                /* why to take this course div */
+                
+                #container2{
+                    margin-bottom:1%;
+                 margin-top:5%;
+                    width:80%;
+                }
+                #heading1{
+                    font-size:3vw;
+                    
+                    font-weight: bold;
+                    text-align: center;
+                    color:BLACK;
+                
+                }
+                
+                .hl{
+                    margin-top:3%;
+                overflow:hidden;
+                    border-top:6px solid grey;
+                    margin-right:auto;
+                    margin-left:auto;
+                    width:35%;
+                }
+                #tempdiv{
+                    margin-right:2.5%;
+                    }
+                    #tempdivheading{
+                        width:80%;font-weight: bold;margin-left: auto;margin-right: auto;font-size:1.6vw;
+                    }
+                    #tempdivpara{
+                        width:100%;overflow:visible;;font-size:15px;font-weight:bold;margin-left: auto;margin-right: auto;font-size:1vw;
+                    }
+                    #card1{
+                        width:120%;
+                        font-weight: bold;;
+                    }
+                    #temphr{
+                        display: none;
+                    }
+                    #cardtempwidth{
+                        width:120%;
+                    }
+                
+                /* why to take this course div  end*/
+                
+                /* ABOUT IOT LAB DIV */
+                
+                #fieldset1{
+                    margin-top:6%;
+                    width:70%;
+                }
+                #legend1{
+                    display:none;
+                }
+                
+                .legendheading{
+                    position:relative;
+                    font-size:3vw;
+                    top:0px;
+                   }
+                   .legendheading2{
+                       margin-RIGHT:15%;
+                       margin-top:0%;
+                       font-size:3vw;
+                       float:right;
+                       font-weight:bold;
+                   }
+                   .legendheading3{
+                    margin-RIGHT:15%;
+                    margin-top:0%;
+                    font-size:20px;
+                    margin-bottom:50px;
+                    float:right;
+                    font-weight:bold;
+                }
+                #legendheadingdiv{
+                    margin-right:25%;
+                    margin-top:2px;
+                }
+                
+                   #fieldset1{
+                       margin-top:8%;
+                       width:95%;
+                   }
+                   #tempimg1{
+                    height:205px;;width:28%;
+                    position:absolute;overflow:visible;top:-80px;
+                    RIGHT:5%;
+                   
+                }
+                #table1{
+                    width:100%;
+                    text-align: center;
+                    font-size:1.5vw;
+                    margin-left:auto;
+                    margin-right:auto;
+                }
+                /* ABOUT IOT LAB DIV  END*/
+                
+                
+                
+                /* div 3 creator */
+                
+                #fieldset2{
+                    margin-top:16%;
+                    width:95%;
+                }
+                #legend2{
+                    display:none;
+                }
+                
+                .legendheading{
+                    position:relative;
+                    font-size:3vw;
+                    top:0px;
+                   }
+                   .legendheading4{
+                       margin-left:15%;
+                       margin-top:20px;
+                       font-size:3vw;
+                       float:left;
+                       font-weight:bold;
+                   }
+                
+                #legendheadingdiv2{
+                    margin-left:20%;
+                    margin-bottom:15%;
+                }
+                
+                   
+                   #tempimg2{
+                    height:250px;;width:25%;
+                    position:absolute;overflow:visible;top:-130px;
+                    left:5%;
+                   
+                }
+                #table2{
+                    width:100%;
+                    float:left;
+                    font-size:1.5vw;
+                    margin-left:auto;
+                    margin-right:auto;
+                }
+                
+                /* div 3 creator end */
+                
+                
+                
+                /* student 2 start */
+                
+                #student2{
+                    background-image: url('student.png');
+                    border-color: 1px solid blue;
+                    border-radius: 65px;
+                    height:500px;
+                    width:100%;
+                    background-size: cover;
+                    margin-left: auto;
+                    margin-right: auto;
+                    padding:4%;
+                    
+                    
+                    
+                        }
+                        #headervl2{
+                            padding-left:5%;
+                        }
+                        
+                        .vl2 {
+                            border-left: 8px solid grey;
+                            height:6vw;
+                            vertical-align: top;
+                            
+                          }
+                    #studentbox2{
+                        PADDING:3%;background-color:#ffffffcc;
+                        border-radius:30px;
+                        width:95%;
+                    
+                        position: relative;
+                       margin-left: auto;
+                       margin-right:auto;
+                        padding-bottom:3%;
+                        
+                    
+                    
+                       
+                    top:310px;
+                    
+                    }
+                    #student2row{
+                        float:right;
+                        text-align: right;
+                        padding-top:5px;
+                    font-weight:bold;
+                    }
+                    #studentboxheading2{
+                        font-size:2vw;
+                        float:right;   font-weight:bold;
+                    }
+                    #headervl2{
+                        padding-left:2%;
+                    }
+                    
+                #headerp{
+                font-size:1.5vw;
+                }
+                
+                #headerp1{
+                    font-size:1.2vw;
+                    }
+                    
+                
+                
+                /* student 2 end */
+                
+                /* collage start */
+                
+                
+                
+                #collage{
+                    background-image: url('collages.png');
+                    border-color: 1px solid blue;
+                    border-radius: 50px;
+                    height:235px;
+                    width:100%;
+                    background-size: cover;
+                    margin-left: auto;
+                    margin-right: auto;
+                    padding:1%;
+                    margin-bottom: 5%;;
+                    
+                    
+                        }
+                        
+                        
+                        .vl3 {
+                            border-left: 8px solid grey;
+                            height:5vw;
+                            
+                        
+                          }
+                    #collagebox2{
+                        PADDING:1%;background-color:#ffffffcc;
+                        border-radius:30px;
+                        width:95%;
+                    
+                        position: relative;
+                       margin-left: auto;
+                       margin-right:auto;
+                    
+                    
+                       
+                    top:120px;
+                    
+                    }
+                    #collage2row{
+                        float:right;
+                        text-align: right;
+                        padding-top:12%;
+                   
+                    
+                    }
+                    #collageboxheading2{
+                        font-size:1.5vw;
+                        padding-top:10%;
+                        float:right;
+                
+                        font-weight:bold;
+                        margin-top:auto;
+                        margin-bottom: auto;
+                    }
+                    #headervl3{
+                        padding-left:2%;
+                    }
+                    
+                #headerp3{
+                font-size:1.1vw;
+                margin-top:2%;
+                }
+                #table4{
+                    overflow: hidden;
+                }
+                
+                
+                
+                
+                /* collage end */
+                
+                
+                
+                /* PROFESSIONALS start */
+                
+                
+                
+                #professionals{
+                    background-image: url('professionals.png');
+                    border-color: 1px solid blue;
+                    border-radius: 50px;
+                    height:235px;
+                    width:100%;
+                    background-size: cover;
+                    margin-left: auto;
+                    margin-right: auto;
+                    padding:2%;
+                    
+                    
+                    
+                
+                        }
+                
+                        #professionalsbox2{
+                            PADDING:1%;background-color:#ffffffcc;
+                            border-radius:30px;
+                            width:95%;
+                        
+                            position: relative;
+                           margin-left: auto;
+                           margin-right:auto;
+                    
+                     
+                        
+                        
+                           
+                        top:115px;
+                        
+                        }
+                        
+                        #containertemp{
+                            display:none;
+                        }
+                
+                        #professionalsheading2{
+                            font-size:1.5vw;
+                            font-weight: bold;
+                        }
+                
+                        
+                        #container5{
+                            margin-bottom:10%;
+                        }
+                        #benefits{
+                            width:75%;
+                            margin-left: auto;
+                            margin-right: auto;
+                        }
+                
+                        #headingdiv{
+                            width: 100%;;
+                            text-align: center;
+                            align-items: center;
+                margin-left: auto;
+                margin-right: auto;
+                margin-bottom:5%;
+                        }
+                
+                        .heading2{
+                
+                            text-align:center;
+                font-weight: bold;
+                font-size: 3vw;
+                        }
+                        
+                        .heading3{
+                text-align: center;
+                font-weight: bold;
+                font-size: 20px;
+                        }
+                /* professioanl end */
+                
+                
+                
+                }
+                
+                
+                
+                
+                
+                
+                
+                @media screen and (max-width: 450px) and    (min-width: 399px){
+                
+                        
+                    #studentbox{
+                        PADDING:1%;background-color:#ffffff99;border-radius:25px;
+                        width:100%;
+                        position: relative;
+                        
+                    
+                        margin-bottom:1%;
+                    top:230px;
+                    
+                    }
+                
+                
+                }
+                
+                
+                 
+                
+                        
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                      .fa:hover {
+                          opacity: 0.7;
+                    
+                     
+                    font-size:23px;
+                    
+                        }
+                
+                
+}

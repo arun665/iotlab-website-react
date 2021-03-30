@@ -1,0 +1,146 @@
+#Shipping{
+@media screen and (min-width: 992px) {
+
+    /* nav code here */
+    
+    #header {
+    
+        list-style-type: none;
+        margin: 0;
+        padding-left: 4%;
+        padding-right: 2%;
+        
+        overflow: hidden;
+        width:100%;
+       background-color:#007FEB;
+       margin-bottom: 3%;;
+      }
+      
+      #logo{
+          height: 60px;
+          width:200px;
+    
+      }
+      #logoimg{
+        height: 40px;
+        width:40px;
+    
+      }
+    
+          #cart{
+            height:50px;
+            width:85px;  
+          }
+          #profile{
+              margin-top:4px;
+            height:45px;
+            width:75px;     
+           }
+    
+           .menuitem {
+            float: left;
+            margin-top: auto;
+          margin-bottom: auto;
+          height: 100%;
+          
+          }
+          #brand{
+            padding:2px 6px;
+          }
+        
+          .menuitem a {
+        font-size: 25px;
+        font-family: 'Berkshire Swash';
+            display: block;
+            color: white;
+            height: 100%;
+            text-align: center;
+            padding-top:5px;
+            padding-bottom: 5px;;
+            margin-top: auto;
+            margin-bottom: auto;
+            text-decoration: none;
+          }
+          
+    
+           /* nav bar section ends  */
+    
+    
+    
+    
+           /*  footer part */
+    
+           #footer{
+            padding:2%;
+            padding-left:8%;
+        }
+        #footerbuttons{
+            margin-right:8%;
+        }
+        #lastcol1{
+            width:55%;
+        }
+          .lastimg{
+            height:200px;
+            width:450px;
+        }
+        #tableb{
+            color:white;font-weight:bold;
+            font-size:20px;
+        }
+        #map{
+            width:25px;
+        }
+        #mail{
+            width:25px;
+        }
+      
+    
+    .fa {
+        
+        height: 70px;
+            width: 70px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+        
+            
+            transition: 1s;
+          }
+          
+        
+        .fa2{
+            
+            height: 72px;
+                width: 72px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 2px;
+            
+                
+                transition: 1s;
+              }
+    
+        
+    
+    
+           
+           /*  footer part end*/
+    
+           /* first div photo*/
+            }
+                
+                
+                 
+            
+           /* raect inline*/
+           #container3{
+              font-family: 'Roboto Condensed', sans-serif;
+            }
+
+
+            #modulescard{
+              background-color: rgba(92,106,119,0.2);overflow:hidden;
+            }
+
+}
